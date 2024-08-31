@@ -41,7 +41,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/amazon-homepage-clone.git
+https://github.com/rajukarki467/amezon_colon_css.project.git
 Navigate to the project folder:
 bash
 Copy code
